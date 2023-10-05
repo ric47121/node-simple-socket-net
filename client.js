@@ -3,8 +3,7 @@ const net = require('net');
 
 const client = new net.Socket();
 
-// const HOST = 'localhost'
-const HOST = '206.189.202.173'
+const HOST = 'localhost'
 
 const user = {
     name: '',
